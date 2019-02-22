@@ -15,6 +15,8 @@ También he añadido en las páginas texto del juego, además de que en la barra
 (aunque no la he podido arreglar al 100%), 
 al menos busca en inicio y la he "traducido" al Español.
 
+Las he ordenado en wordpress para que así pueda crear los submenus para poder usar el menú desplegable.
+
 ## HTML
 En html, me hubiera gustado añadir muchas mas cosas pero no ha podido ser, 
 ya que cuando añadia algo nuevo, lo demás se me desordenaba o directamente se perdia, 
