@@ -24,5 +24,7 @@ a quien le interese saber más pueda buscar más información en esas páginas.
 ## HTML
 En html, me hubiera gustado añadir muchas mas cosas pero no ha podido ser, 
 ya que cuando añadia algo nuevo, lo demás se me desordenaba o directamente se perdia, 
-en HTML he añadido muchos div's, ul,li y demás para así poder modificarlos en el Style.
+en HTML he añadido muchos div's, ul,li con sus clases como puede ser: .menu,.logo.......
+
+En wordpress he añadido tablas para que así la información salgo algo más ordenada y sea atractiva para leer.
 
