@@ -8,7 +8,7 @@ El footer me costó más ya que no podiá centrarlo, pero le quite padding, le p
 y un background y me funcionó.
 
 Quité algunas cosas del headther como puede ser el color de letra del titulo, 
-el mismo titulo con color:#fff y <p>Dead by Daylight </p>
+el mismo titulo con color:#fff y Dead by Daylight
 
 ## Las páginas
 También he añadido en las páginas texto del juego, además de que en la barra de busqueda 
